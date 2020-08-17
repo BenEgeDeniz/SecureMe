@@ -2,6 +2,12 @@
 # SecureMe
 PHP bazlı zaafiyet koruması
 
+## Kullanım:
+
+> config.php dosyayısnı açıp gerekli düzenlemeleri yapın. (Konfigürasyon dosyasında parametrelerin ne işe yaradığı anlatıldı.)
+
+> secureme_worker.php dosyasını korumak istediğiniz sayfalara dahil (include) edin veya gerektirin (require).
+
 ## Koruma modülleri:
 
  - XSS Filtrasyonu
